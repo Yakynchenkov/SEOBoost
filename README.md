@@ -1,2 +1,2 @@
 # seoboost
-HTML page with maximum SEO optimization for rapid deployment and promoting your Content.
+HTML - страница с максимальной SEO оптимизацией для быстрого развертывания и продвижения вашего Контента.
